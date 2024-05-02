@@ -1,6 +1,6 @@
-# welcome_and_login_screen
+# Welcome and Login Screen
 
-A new Flutter project.
+A Simple Flutter Project UI.
 
 ## Screens 
 
